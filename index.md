@@ -8,7 +8,7 @@ Email: zhen.zhang1991@hotmail.com <br>
 Link to: [Google Scholar](https://scholar.google.com/citations?user=xlcoVIUAAAAJ&hl=en); 
 [ORCID: 0000-0003-2128-6215](https://orcid.org/0000-0003-2128-6215)
 
-[About](#resume); [Research](#research-highlights)
+[About](#resume); [Research](#research-highlights); [Publications](#publications)
 * * *
 
 # Resume
@@ -66,5 +66,13 @@ vacancies that can facilitate their recombination.  This finding opens an avenue
 
 Publications for more details:
 *  *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2218673120)
+
+* * *
+
+# Publications
+
+1. *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2218673120)
+2. *Zhen Zhang*, Jun Ding, and Evan Ma. Shear transformations in metallic glasses without excessive and predefinable defects. [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119)
+
 
 * * *
