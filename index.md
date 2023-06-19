@@ -46,6 +46,7 @@ Further analysis of the slowly-quenched glass has revealed that that shear trans
 For silicate glasses, we have recently investigated their mechanical behavior under tensile loading using large-scale MD simulations. It is found that the non-linear elastic properties of the glasses are originated from the synergy of heterogeneous response of the network structure and the stress-relaxing local coordination environment change of the alkali modifiers. We also found a composition-mediated brittle-to-ductile transition of the nanoscale fracture behavior of the glasses, which can be attributed to change of heterogeneities in various atomic-level properties.
 
 Publications for more details:
+
 *  *Zhen Zhang*, Jun Ding, and Evan Ma. Shear transformations in metallic glasses without excessive and predefinable defects. [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119)
 *  Zhen Zhang, Simona Ispas, and Walter Kob. Origin of the non-linear elastic behavior of silicate glasses. [Acta Materialia, 231, 117855 (2022).](https://arxiv.org/pdf/2111.09549.pdf)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Fracture of silicate glasses: Microcavities and correlations between atomic-level properties. [Physical Review Materials, 6, 085601 (2022).](https://doi.org/10.1103/PhysRevMaterials.6.085601)
