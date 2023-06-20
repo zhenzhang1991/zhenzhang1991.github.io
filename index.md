@@ -12,7 +12,7 @@ Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#pu
 College of Mathematics and Physics<br>
 Chengdu University of Technology<br>
 Chengdu 610059, China<br>
-Email: [zhen.zhang1991@hotmail.com](zhen.zhang1991@hotmail.com)<br>
+Email: zhen.zhang1991@hotmail.com<br>
 Homepage: [https://zhenzhang1991.github.io](https://zhenzhang1991.github.io)
 
 **Education**
