@@ -98,5 +98,5 @@ spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isij
 * * *
 
 # Resources
-
-[linkto something](https://doi.org/10.2355/isijinternational.ISIJINT-2015-600)
+## Codes and scripts
+[Four-point correlation structural analysis](https://github.com/zhenzhang1991/three-dimensional-structure)
