@@ -61,7 +61,7 @@ Publications for more details:
 *  Zhen Zhang, Simona Ispas, and Walter Kob. Origin of the non-linear elastic behavior of silicate glasses. [Acta Materialia, 231, 117855 (2022).](https://arxiv.org/pdf/2111.09549.pdf)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Fracture of silicate glasses: Microcavities and correlations between atomic-level properties. [Physical Review Materials, 6, 085601 (2022).](https://doi.org/10.1103/PhysRevMaterials.6.085601)
 
-## 3) Monolayer surface properties of silicate glasses
+## 3) Monolayer surface properties of oxide glasses
 
 Surface properties lie at the core of many applications of silicate glasses. In our recent work we combine large-scale classical MD simulations with first-principles calculations to investigate the characteristics of silicate glass surfaces on the level of single atomic layer. Our MD simulations revealed the presence of structural defects that are potential reactive sites on the surfaces. Their vibrational and electronic signatures were further identified jointly from the classical and ab initio simulations. Moreover, the large-scale simulations allowed to study the topographical features of the melt-quenched surface and the fracture surface of the glasses. It is revealed that the melt-quenched surface is considerably smaller than the fracture surface. The Fracture is found to exhibit a logarithmic scaling of the surface height fluctuation, indicating that it is not fractal object on the nanometer scale.
 
@@ -72,7 +72,7 @@ Publications for more details:
 *  *Zhen Zhang*, Walter Kob, and Simona Ispas. First-principles study of the surface of silica and sodium silicate glasses. [Physical Review B, 103, 184201 (2021).](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.184201)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [The Journal of Chemical Physics, 153, 124503 (2020).](https://arxiv.org/pdf/2006.14791.pdf)
 
-## 4) Irradiation of structurally and chemically complex materials
+## 4) Irradiation of High-entropy materials
 
 High- and medium-entropy alloys (H/MEAs) are an emerging type of materials with great potentials in both structural and nuclear applications. Recent studies have shown that a salient feature that sets these alloys apart from pure metals and dilute solid solutions is their chemical complexities in the form of local chemical order (LCO). Combining atomistic simulations with in situ ion irradiation experiments of a representative CrCoNi MEA, we demonstrated that increased LCO significantly enhances its resistance to irradiation damage by narrowing the mobility ratio of irradiation-induced interstitials and
 vacancies that can facilitate their recombination.  This finding opens an avenue towards the design of structurally and chemically complex materials with superior irradiation tolerance. 
