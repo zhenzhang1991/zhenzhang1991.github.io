@@ -74,11 +74,14 @@ Publications for more details:
 * * *
 
 # Publications
-
+1. *Zhen Zhang*, Simona Ispas, Walter Kob. Surface properties of alkali silicate glasses: Influence of the modifiers. [The Journal of Chemical Physics, in press (2013)](https://arxiv.org/pdf/2304.10781.pdf)
+1. Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, *Zhen Zhang*. Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations. [Journal of the American Ceramic Society, in press (2013)](https://arxiv.org/pdf/2305.04202.pdf)
 1. Navneet Singh, *Zhen Zhang*, AK Sood, Walter Kob, Rajesh Ganapathy. Intermediate-range order governs dynamics in dense colloidal liquids. [Proc. Natl. Acad. Sci. U.S.A.,120, e2300923120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2300923120)
 0. *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2218673120)
+0. Zhi-Hao Wang, Xuan-Yan Chen, *Zhen Zhang*, Xie Zhang, Su-Huai Wei. Profiling the off-center atomic displacements in CuCl at finite temperatures with a deep-learning potential. [Physical Review Materials, 7, 034601 (2023)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.034601)
 0. Chang Liu, *Zhen Zhang*, Jun Ding, and Evan Ma. On the reliability of using reverse Monte Carlo simulations to construct the atomic structure model of metallic
 glasses. [Scripta Materialia, 225, 115159 (2023).](https://www.sciencedirect.com/science/article/abs/pii/S1359646222006546?via%3Dihub)
+0. Kaihui Xun, Bozhao Zhang, Qi Wang, *Zhen Zhang*, Jun Ding, En Ma. Local chemical inhomogeneities in TiZrNb-based refractory high-entropy alloys. [Journal of Materials Science & Technology, 135, 221-230 (2023).](https://www.sciencedirect.com/science/article/abs/pii/S1005030222006090)
 0. *Zhen Zhang*, Jun Ding, and Evan Ma. Shear transformations in metallic glasses without excessive and predefinable defects. [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119)
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Fracture of silicate glasses: Microcavities and correlations between atomic-level properties. [Physical Review Materials, 6, 085601 (2022).](https://doi.org/10.1103/PhysRevMaterials.6.085601)
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Origin of the non-linear elastic behavior of silicate glasses. [Acta Materialia, 231, 117855 (2022).](https://arxiv.org/pdf/2111.09549.pdf)
