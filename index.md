@@ -38,7 +38,7 @@ Email: zhen.zhang1991@hotmail.com<br>
 
 Disordered systems such as liquids and glasses have a rich structure that is otherwise hidden if characterized with standard structural measures such as static structure factor. We devised a novel four-point correlation method that allows detecting structural order in liquids on length scales beyond short range. We numerically demonstrated that hard-sphere like systems have a icosahedral orientational order while the prototypical network system silica has a orientational order with tetrahedral symmetry, both of which extending to intermediate and larger distances. Further experimental studies on granular matter and dense colloid liquids have demonstrated that this four-point correlation method indeed allow unraveling the hidden intermediate-range structure and it connections to the particle packing and dynamical heterogeneity in these systems.
 
-<img align="center" src="images/4point-correlation.jpg" width="500">
+<img align="center" src="images/4point-correlation.jpg" width="800">
 
 Publications for more details:
 *  *Zhen Zhang* and Walter Kob. Revealing the three-dimensional structure of liquids using four-point correlation functions. [Proc. Natl. Acad. Sci. U.S.A., 117, 14032 (2020).](https://doi.org/10.1073/pnas.2005638117)
