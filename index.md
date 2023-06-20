@@ -71,14 +71,10 @@ vacancies that can facilitate their recombination.  This finding opens an avenue
 Publications for more details:
 *  *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2218673120)
 
-0. first item
-0. second item
-0. another item
-{: reversed="reversed"}
-
 * * *
 
 # Publications
+
 1. *Zhen Zhang*, Simona Ispas, Walter Kob. Surface properties of alkali silicate glasses: Influence of the modifiers. [The Journal of Chemical Physics, in press (2013)](https://arxiv.org/pdf/2304.10781.pdf)
 1. Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, *Zhen Zhang*. Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations. [Journal of the American Ceramic Society, in press (2013)](https://arxiv.org/pdf/2305.04202.pdf)
 1. Navneet Singh, *Zhen Zhang*, AK Sood, Walter Kob, Rajesh Ganapathy. Intermediate-range order governs dynamics in dense colloidal liquids. [Proc. Natl. Acad. Sci. U.S.A.,120, e2300923120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2300923120)
@@ -100,6 +96,11 @@ glasses. [Scripta Materialia, 225, 115159 (2023).](https://www.sciencedirect.com
 spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isijinternational.ISIJINT-2015-600)
 
 * * *
+
+1. first item
+1. second item
+1. another item
+{: reversed="reversed"}
 
 # Resources
 
