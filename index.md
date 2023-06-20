@@ -14,7 +14,8 @@ College of Mathematics and Physics<br>
 Chengdu University of Technology<br>
 Chengdu 610059, China<br>
 Email: zhen.zhang1991@hotmail.com<br>
-Homepage: [https://zhenzhang1991.github.io](https://zhenzhang1991.github.io)
+[Homepage](https://zhenzhang1991.github.io); [Google Scholar](https://scholar.google.com/citations?user=xlcoVIUAAAAJ&hl=en); 
+[ORCID](https://orcid.org/0000-0003-2128-6215)
 
 **Education**
 <pre>
