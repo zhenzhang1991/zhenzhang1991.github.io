@@ -94,13 +94,8 @@ glasses. [Scripta Materialia, 225, 115159 (2023).](https://www.sciencedirect.com
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob. The critical role of the interaction potential and simulation protocol for the structural and mechanical properties of sodosilicate glasses. [Journal of Non-Crystalline Solids, 532, 119895 (2020).](https://doi.org/10.1016/j.jnoncrysol.2020.119895)
 0. *Zhen Zhang*, Bing Xie, Wang Zhou, Jiang Diao, and Hongyi Li. Structural characterization of FeO-SiO2-V2O3 slags using molecular dynamics simulations and FTIR
 spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isijinternational.ISIJINT-2015-600)
-
-* * *
-
-1. first item
-1. second item
-1. another item
 {: reversed="reversed"}
+* * *
 
 # Resources
 
