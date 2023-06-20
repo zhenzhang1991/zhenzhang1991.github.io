@@ -19,7 +19,7 @@ Email: zhen.zhang1991@hotmail.com<br>
 
 **Education**
 <pre>
-2016-2020    Ph.D in Physics, University of Montpellier, France (Supervised by Prof. Walter Kob and Dr. Simona Ispas)
+2016-2020    Ph.D in Physics, University of Montpellier, France (Supervised by Prof. Walter Kob and Dr. Simona Ispas) 
 2013-2016    M.S. in Metallurgical Engineering, Chongqing University, China
 2009-2013    B.S. in Metallurgical Engineering, Chongqing University, China
 </pre>
