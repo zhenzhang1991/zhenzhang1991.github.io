@@ -73,12 +73,19 @@ Publications for more details:
 # Publications
 
 1. Navneet Singh, *Zhen Zhang*, AK Sood, Walter Kob, Rajesh Ganapathy. Intermediate-range order governs dynamics in dense colloidal liquids. [Proc. Natl. Acad. Sci. U.S.A.,120, e2300923120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2300923120)
-2. *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2218673120)
-3. *Zhen Zhang*, Jun Ding, and Evan Ma. Shear transformations in metallic glasses without excessive and predefinable defects. [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119)
-4. *Zhen Zhang* and Walter Kob. Revealing the three-dimensional structure of liquids using four-point correlation functions. [Proc. Natl. Acad. Sci. U.S.A., 117, 14032 (2020).](https://doi.org/10.1073/pnas.2005638117)
-5. Houfei Yuan, *Zhen Zhang*, Walter Kob, and Yujie Wang. Connecting packing efficiency of binary hard sphere systems to their intermediate range structure. [Physical Review Letters, 127, 278001 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
-6. *Zhen Zhang*, Simona Ispas, and Walter Kob. Roughness and scaling properties of oxide glass surfaces at the nanoscale. [Physical Review Letters, 126, 066101 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
-7. *Zhen Zhang*, Walter Kob, and Simona Ispas. First-principles study of the surface of silica and sodium silicate glasses. [Physical Review B, 103, 184201 (2021).](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.184201)
-8. *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [The Journal of Chemical Physics, 153, 124503 (2020).](https://arxiv.org/pdf/2006.14791.pdf)
+0. *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2218673120)
+0. Chang Liu, *Zhen Zhang*, Jun Ding, and Evan Ma. On the reliability of using reverse Monte Carlo simulations to construct the atomic structure model of metallic
+glasses. [Scripta Materialia, 225, 115159 (2023).](https://www.sciencedirect.com/science/article/abs/pii/S1359646222006546?via%3Dihub)
+0. *Zhen Zhang*, Jun Ding, and Evan Ma. Shear transformations in metallic glasses without excessive and predefinable defects. [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119)
+0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Fracture of silicate glasses: Microcavities and correlations between atomic-level properties. [Physical Review Materials, 6, 085601 (2022).](https://doi.org/10.1103/PhysRevMaterials.6.085601)
+0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Origin of the non-linear elastic behavior of silicate glasses. [Acta Materialia, 231, 117855 (2022).](https://arxiv.org/pdf/2111.09549.pdf)
+0. Houfei Yuan, *Zhen Zhang*, Walter Kob, and Yujie Wang. Connecting packing efficiency of binary hard sphere systems to their intermediate range structure. [Physical Review Letters, 127, 278001 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
+0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Roughness and scaling properties of oxide glass surfaces at the nanoscale. [Physical Review Letters, 126, 066101 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
+0. *Zhen Zhang*, Walter Kob, and Simona Ispas. First-principles study of the surface of silica and sodium silicate glasses. [Physical Review B, 103, 184201 (2021).](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.184201)
+0. *Zhen Zhang* and Walter Kob. Revealing the three-dimensional structure of liquids using four-point correlation functions. [Proc. Natl. Acad. Sci. U.S.A., 117, 14032 (2020).](https://doi.org/10.1073/pnas.2005638117)
+0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [The Journal of Chemical Physics, 153, 124503 (2020).](https://arxiv.org/pdf/2006.14791.pdf)
+0. *Zhen Zhang*, Simona Ispas, and Walter Kob. The critical role of the interaction potential and simulation protocol for the structural and mechanical properties of sodosilicate glasses. [Journal of Non-Crystalline Solids, 532, 119895 (2020).](https://doi.org/10.1016/j.jnoncrysol.2020.119895)
+0. *Zhen Zhang*, Bing Xie, Wang Zhou, Jiang Diao, and Hongyi Li. Structural characterization of FeO-SiO2-V2O3 slags using molecular dynamics simulations and FTIR
+spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isijinternational.ISIJINT-2015-600)
 
 * * *
