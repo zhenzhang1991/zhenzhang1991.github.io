@@ -9,8 +9,8 @@ Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#pu
 
 # Resume
 Dr. Zhen Zhang<br>
-College of Mathematics and Physics,<br>
-Chengdu University of Technology,<br>
+College of Mathematics and Physics<br>
+Chengdu University of Technology<br>
 Chengdu 610059, China<br>
 Email: zhen.zhang1991@hotmail.com; <br>
 Homepage: https://zhenzhang1991.github.io
