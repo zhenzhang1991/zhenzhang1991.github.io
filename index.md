@@ -72,7 +72,7 @@ Publications for more details:
 *  *Zhen Zhang*, Walter Kob, and Simona Ispas. First-principles study of the surface of silica and sodium silicate glasses. [Physical Review B, 103, 184201 (2021).](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.184201)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [The Journal of Chemical Physics, 153, 124503 (2020).](https://arxiv.org/pdf/2006.14791.pdf)
 
-## 4) Irradiation of high-entropy materials
+## 4) Irradiation response of high-entropy materials
 
 High- and medium-entropy alloys (H/MEAs) are an emerging type of materials with great potentials in both structural and nuclear applications. Recent studies have shown that a salient feature that sets these alloys apart from pure metals and dilute solid solutions is their chemical complexities in the form of local chemical order (LCO). Combining atomistic simulations with in situ ion irradiation experiments of a representative CrCoNi MEA, we demonstrated that increased LCO significantly enhances its resistance to irradiation damage by narrowing the mobility ratio of irradiation-induced interstitials and
 vacancies that can facilitate their recombination.  This finding opens an avenue towards the design of structurally and chemically complex materials with superior irradiation tolerance. 
