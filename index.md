@@ -71,6 +71,11 @@ vacancies that can facilitate their recombination.  This finding opens an avenue
 Publications for more details:
 *  *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2218673120)
 
+0. first item
+0. second item
+0. another item
+{: reversed="reversed"}
+
 * * *
 
 # Publications
