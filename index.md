@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Greetings! I am a researcher at the College of Mathematics and Physics, Chengdu University of Technology (China). I am interested in the emerging properties and non-trivial behaviors of disordered materials, such as oxides glasses, metallic glasses, and granular matter. I use state-of-the-art computational and numerical methods to probe and understand the physics behind the intriguing properties of these systems. 
+Greetings! I am a researcher at the College of Mathematics and Physics, Chengdu University of Technology (China). I am interested in the emerging properties and non-trivial behaviors of disordered materials, such as liquids, glasses, complex alloys, and granular matter. I use state-of-the-art computational and numerical methods to probe and understand the physics behind the intriguing properties of these systems. 
 
 Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#publications); [Resources](#resources)
 
