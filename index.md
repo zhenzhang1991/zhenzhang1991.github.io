@@ -4,14 +4,16 @@ layout: default
 
 Greetings! I am a researcher at the College of Mathematics and Physics, Chengdu University of Technology (China). I am interested in the emerging properties and non-trivial behaviors in a range of disordered materials, such as oxides glasses, metallic glasses, and granular matter. I use state-of-the-art computational and numerical methods to probe and understand the physics behind the intriguing properties of these systems. 
 
-Email: zhen.zhang1991@hotmail.com <br>
-Link to: [Google Scholar](https://scholar.google.com/citations?user=xlcoVIUAAAAJ&hl=en); 
-[ORCID: 0000-0003-2128-6215](https://orcid.org/0000-0003-2128-6215)
-
 Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#publications); [Resources](#resources)
 * * *
 
 # Resume
+Dr. Zhen Zhang<br>
+College of Mathematics and Physics,<br>
+Chengdu University of Technology,<br>
+Chengdu 610059, China<br>
+Email: zhen.zhang1991@hotmail.com; <br>
+Homepage: https://zhenzhang1991.github.io
 
 **Education**
 <pre>
