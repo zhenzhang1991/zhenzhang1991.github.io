@@ -51,6 +51,8 @@ For metallic glasses, by combing conventional MD method and a highly efficient s
 Further analysis of the slowly-quenched glass has revealed that that shear transformation zones are considerably fewer and smaller than previously believed and cannot be attributed to clear-cut local defects that can be predefined in the glass structure.
 For silicate glasses, we have recently investigated their mechanical behavior under tensile loading using large-scale MD simulations. It is found that the non-linear elastic properties of the glasses are originated from the synergy of heterogeneous response of the network structure and the stress-relaxing local coordination environment change of the alkali modifiers. We also found a composition-mediated brittle-to-ductile transition of the nanoscale fracture behavior of the glasses, which can be attributed to change of heterogeneities in various atomic-level properties.
 
+<img align="center" src="images/deformation-silicate-glass.jpg" width="800">
+
 Publications for more details:
 
 *  *Zhen Zhang*, Jun Ding, and Evan Ma. Shear transformations in metallic glasses without excessive and predefinable defects. [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119)
