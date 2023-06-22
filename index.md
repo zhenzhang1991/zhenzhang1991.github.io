@@ -27,7 +27,7 @@ Email: zhen.zhang1991@hotmail.com<br>
 **Employment**
 
 2023-present  Research Scientist, College of Mathematics and Physics, Chengdu University of Technology, China <br>
-2020-2023   Postdoc Researcher, State Key Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, China (with Prof. Evan Ma and Prof. Jun Ding) <br>
+2020-2023   Postdoctoral Researcher, State Key Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, China (with Prof. Evan Ma and Prof. Jun Ding) <br>
 2020      Visiting Scholar, School of Physics and Astronomy, Shanghai Jiao Tong University, China (with Prof. Yujie Wang)
 
 * * *
@@ -36,13 +36,13 @@ Email: zhen.zhang1991@hotmail.com<br>
 
 ## 1) Uncover hidden order in disordered systems
 
-Disordered systems such as liquids and glasses have a rich structure that is otherwise hidden if characterized with standard structural measures such as static structure factor. We recently devised a novel four-point correlation method that allows detecting structural order in liquids on length scales well beyond nearest neighbors. We numerically demonstrated that hard-sphere-like systems have a icosahedral orientational order while the prototypical network-forming system silica has a orientational order with tetrahedral symmetry, both of which extending to intermediate and larger distances. Further experimental studies on granular matter and dense colloid liquids demonstrated that this four-point correlation method indeed allows unraveling the hidden intermediate-range order and it connections to particle packing efficiency and dynamical heterogeneity in these systems.
+Disordered systems such as liquids and glasses have a rich structure that is usually hidden if characterized with standard structural measures such as the static structure factor. We recently devised a novel four-point correlation method that allows detecting structural order in liquids on length scales well beyond nearest neighbors. We numerically demonstrated that hard-sphere-like systems have a icosahedral orientational order while the prototypical network-forming system silica has a orientational order with tetrahedral symmetry, both of which extending to intermediate and larger distances. Further experimental studies on granular matter and dense colloid liquids demonstrated that this four-point correlation method indeed allows unraveling the hidden intermediate-range order and it connections to particle packing efficiency and dynamical heterogeneity in these systems.
 
 <img align="center" src="images/4point-correlation.jpg" width="900">
 
 Publications for more details:
 *  *Zhen Zhang* and Walter Kob. Revealing the three-dimensional structure of liquids using four-point correlation functions. [Proc. Natl. Acad. Sci. U.S.A., 117, 14032 (2020).](https://doi.org/10.1073/pnas.2005638117)
-*  Houfei Yuan, *Zhen Zhang*, Walter Kob, and Yujie Wang. Connecting packing efficiency of binary hard sphere systems to their intermediate range structure. [Physical Review Letters, 127, 278001 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
+*  Houfei Yuan, *Zhen Zhang*, Walter Kob, and Yujie Wang. Connecting packing efficiency of binary hard sphere systems to their intermediate range structure. [Physical Review Letters, 127, 278001 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.278001)
 *  Navneet Singh, *Zhen Zhang*, AK Sood, Walter Kob, Rajesh Ganapathy. Intermediate-range order governs dynamics in dense colloidal liquids. [Proc. Natl. Acad. Sci. U.S.A.,120, e2300923120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2300923120)
 
 ## 2) Deformation and failure of amorphous solids
@@ -50,26 +50,26 @@ The deformation and failure of amorphous materials are much less understood when
 
 <img align="center" src="images/stz-mg.jpg" width="900">
 
-For silicate glasses, we have recently investigated their mechanical behavior under tensile loading using large-scale MD simulations. It is found that the non-linear elastic properties of the glasses are originated from the combined effect of heterogeneous response of the network structure and the stress-relaxing local coordination environment variations of the alkali modifiers. We also found a composition-mediated brittle-to-ductile transition of the nanoscale fracture behavior of the glasses, which can be related to change of heterogeneities in various atomic-level properties.
+For silicate glasses, we have recently investigated their mechanical behavior under tensile loading using large-scale MD simulations. It is found that the non-linear elastic properties of the glasses originate from the combined effect of heterogeneous response of the network structure and the stress-relaxing local coordination environment variations of the alkali modifiers. We also found a composition-mediated brittle-to-ductile transition of the nanoscale fracture behavior of the glasses, which can be related to change of heterogeneities in various atomic-level properties.
 
 <img align="center" src="images/deformation-silicate-glass.jpg" width="900">
 
 Publications for more details:
 
 *  *Zhen Zhang*, Jun Ding, and Evan Ma. Shear transformations in metallic glasses without excessive and predefinable defects. [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119)
-*  Zhen Zhang, Simona Ispas, and Walter Kob. Origin of the non-linear elastic behavior of silicate glasses. [Acta Materialia, 231, 117855 (2022).](https://arxiv.org/pdf/2111.09549.pdf)
+*  Zhen Zhang, Simona Ispas, and Walter Kob. Origin of the non-linear elastic behavior of silicate glasses. [Acta Materialia, 231, 117855 (2022).](https://doi.org/10.1016/j.actamat.2022.117855)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Fracture of silicate glasses: Microcavities and correlations between atomic-level properties. [Physical Review Materials, 6, 085601 (2022).](https://doi.org/10.1103/PhysRevMaterials.6.085601)
 
 ## 3) Monolayer surface properties of oxide glasses
 
-Surface properties lie at the core of many applications of silicate glasses. In our recent work we combine large-scale classical MD simulations with first-principles calculations to investigate the characteristics of silicate glass surfaces on the level of single atomic layer. Our MD simulations revealed the presence of structural defects that are potential reactive sites on the surfaces. Their vibrational and electronic signatures were further identified jointly from the classical and ab initio simulations. Moreover, the large-scale simulations allowed to study the topographical features of the melt-quenched surface and the fracture surface of the glasses. It is revealed that the melt-quenched surface is considerably smaller than the fracture surface. The Fracture is found to exhibit a logarithmic scaling of the surface height fluctuation, indicating that it is not fractal object on the nanometer scale.
+Surface properties lie at the core of many applications of silicate glasses. In our recent work we have combined large-scale classical MD simulations with first-principles calculations to investigate the characteristics of silicate glass surfaces on the level of single atomic layer. Our MD simulations revealed the presence of structural defects that are potential reactive sites on the surfaces; their vibrational and electronic signatures were further identified jointly from the classical and ab initio simulations. Moreover, the large-scale simulations allowed us to study the topographical features of the melt-quenched surface and the fracture surface of the glasses. It is revealed that the roughness of the melt-quenched surface is considerably smaller than the fracture surface. The fracture surface is found to exhibit a logarithmic scaling of the surface height fluctuation, indicating that it is not fractal object on the nanometer scale.
 
 <img align="center" src="images/surface-prop.jpg" width="900">
 
 Publications for more details:
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Roughness and scaling properties of oxide glass surfaces at the nanoscale. [Physical Review Letters, 126, 066101 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
 *  *Zhen Zhang*, Walter Kob, and Simona Ispas. First-principles study of the surface of silica and sodium silicate glasses. [Physical Review B, 103, 184201 (2021).](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.184201)
-*  *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [The Journal of Chemical Physics, 153, 124503 (2020).](https://arxiv.org/pdf/2006.14791.pdf)
+*  *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [The Journal of Chemical Physics, 153, 124503 (2020).](https://doi.org/10.1063/5.0019514)
 
 ## 4) Irradiation response of high-entropy materials
 
@@ -93,12 +93,12 @@ glasses. [Scripta Materialia, 225, 115159 (2023).](https://www.sciencedirect.com
 0. Kaihui Xun, Bozhao Zhang, Qi Wang, *Zhen Zhang*, Jun Ding, En Ma. Local chemical inhomogeneities in TiZrNb-based refractory high-entropy alloys. [Journal of Materials Science & Technology, 135, 221-230 (2023).](https://www.sciencedirect.com/science/article/abs/pii/S1005030222006090)
 0. *Zhen Zhang*, Jun Ding, and Evan Ma. Shear transformations in metallic glasses without excessive and predefinable defects. [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119)
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Fracture of silicate glasses: Microcavities and correlations between atomic-level properties. [Physical Review Materials, 6, 085601 (2022).](https://doi.org/10.1103/PhysRevMaterials.6.085601)
-0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Origin of the non-linear elastic behavior of silicate glasses. [Acta Materialia, 231, 117855 (2022).](https://arxiv.org/pdf/2111.09549.pdf)
-0. Houfei Yuan, *Zhen Zhang*, Walter Kob, and Yujie Wang. Connecting packing efficiency of binary hard sphere systems to their intermediate range structure. [Physical Review Letters, 127, 278001 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
+0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Origin of the non-linear elastic behavior of silicate glasses. [Acta Materialia, 231, 117855 (2022).](https://doi.org/10.1016/j.actamat.2022.117855)
+0. Houfei Yuan, *Zhen Zhang*, Walter Kob, and Yujie Wang. Connecting packing efficiency of binary hard sphere systems to their intermediate range structure. [Physical Review Letters, 127, 278001 (2021).](https://doi.org/10.1103/PhysRevLett.127.278001)
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Roughness and scaling properties of oxide glass surfaces at the nanoscale. [Physical Review Letters, 126, 066101 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
 0. *Zhen Zhang*, Walter Kob, and Simona Ispas. First-principles study of the surface of silica and sodium silicate glasses. [Physical Review B, 103, 184201 (2021).](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.184201)
 0. *Zhen Zhang* and Walter Kob. Revealing the three-dimensional structure of liquids using four-point correlation functions. [Proc. Natl. Acad. Sci. U.S.A., 117, 14032 (2020).](https://doi.org/10.1073/pnas.2005638117)
-0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [The Journal of Chemical Physics, 153, 124503 (2020).](https://arxiv.org/pdf/2006.14791.pdf)
+0. *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [The Journal of Chemical Physics, 153, 124503 (2020).](https://doi.org/10.1063/5.0019514)
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob. The critical role of the interaction potential and simulation protocol for the structural and mechanical properties of sodosilicate glasses. [Journal of Non-Crystalline Solids, 532, 119895 (2020).](https://doi.org/10.1016/j.jnoncrysol.2020.119895)
 0. *Zhen Zhang*, Bing Xie, Wang Zhou, Jiang Diao, and Hongyi Li. Structural characterization of FeO-SiO2-V2O3 slags using molecular dynamics simulations and FTIR
 spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isijinternational.ISIJINT-2015-600)
