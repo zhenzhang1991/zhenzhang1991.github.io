@@ -19,7 +19,7 @@ Email: zhen.zhang1991@hotmail.com<br>
 
 **Education**
 
-2016-2020   Ph.D in Physics, University of Montpellier, France (with Prof. Walter Kob and Dr. Simona Ispas) <br>
+2016-2020   Ph.D in Physics, University of Montpellier, France (with Prof. [Walter Kob](https://coulomb.umontpellier.fr/perso/walter.kob/) and Dr. [Simona Ispas](https://www.researchgate.net/profile/Simona-Ispas)) <br>
 2013-2016   M.E. in Metallurgical Engineering, Chongqing University, China <br>
 2009-2013   B.E. in Metallurgical Engineering, Chongqing University, China
 
@@ -29,9 +29,9 @@ Email: zhen.zhang1991@hotmail.com<br>
 2023-present  Research Scientist, College of Mathematics and Physics, Chengdu University of Technology, <br> 
        China <br>
 2020-2023   Postdoctoral Researcher, State Key Laboratory for Mechanical Behavior of Materials, Xi’an <br> 
-       Jiaotong University, China (with Prof. Evan Ma and Prof. Jun Ding) <br>
+       Jiaotong University, China (with Prof. [Evan Ma](https://scholar.google.com/citations?user=wvnI5qIAAAAJ&hl=en) and Prof. [Jun Ding](http://gr.xjtu.edu.cn/en/web/dingsn/home)) <br>
 2020     Visiting Scholar, School of Physics and Astronomy, Shanghai Jiao Tong University, China <br>
-       (with Prof. Yujie Wang)
+       (with Prof. [Yujie Wang](https://xray.sjtu.edu.cn/a/en/))
 
 * * *
 
