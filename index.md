@@ -70,6 +70,7 @@ Surface properties lie at the core of many applications of silicate glasses. In 
 <img align="center" src="images/surface-prop.jpg" width="900">
 
 Publications for more details:
+*  *Zhen Zhang*, Simona Ispas, Walter Kob. Surface properties of alkali silicate glasses: Influence of the modifiers. [The Journal of Chemical Physics, 158, 244504 (2023).](https://doi.org/10.1063/5.0155497)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Roughness and scaling properties of oxide glass surfaces at the nanoscale. [Physical Review Letters, 126, 066101 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
 *  *Zhen Zhang*, Walter Kob, and Simona Ispas. First-principles study of the surface of silica and sodium silicate glasses. [Physical Review B, 103, 184201 (2021).](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.184201)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [The Journal of Chemical Physics, 153, 124503 (2020).](https://doi.org/10.1063/5.0019514)
@@ -86,8 +87,8 @@ Publication for more details:
 
 # Publications
 
-1. *Zhen Zhang*, Simona Ispas, Walter Kob. Surface properties of alkali silicate glasses: Influence of the modifiers. [The Journal of Chemical Physics, in press (2023).](https://arxiv.org/pdf/2304.10781.pdf)
-1. Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, *Zhen Zhang*. Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations. [Journal of the American Ceramic Society, in press (2023).](https://arxiv.org/pdf/2305.04202.pdf)
+1. *Zhen Zhang*, Simona Ispas, Walter Kob. Surface properties of alkali silicate glasses: Influence of the modifiers. [The Journal of Chemical Physics, 158, 244504 (2023).](https://doi.org/10.1063/5.0155497)
+1. Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, *Zhen Zhang*. Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations. [Journal of the American Ceramic Society, in press (2023).](https://doi.org/10.1111/jace.19230)
 1. Navneet Singh, *Zhen Zhang*, AK Sood, Walter Kob, Rajesh Ganapathy. Intermediate-range order governs dynamics in dense colloidal liquids. [Proc. Natl. Acad. Sci. U.S.A.,120, e2300923120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2300923120)
 0. *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2218673120)
 0. Zhi-Hao Wang, Xuan-Yan Chen, *Zhen Zhang*, Xie Zhang, Su-Huai Wei. Profiling the off-center atomic displacements in CuCl at finite temperatures with a deep-learning potential. [Physical Review Materials, 7, 034601 (2023)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.034601)
