@@ -2,7 +2,7 @@
 layout: default
 ---
 <img align="left" src="images/me.jpg" width="118">
-Greetings! I am a research scientist at the College of Mathematics and Physics, Chengdu University of Technology (China). I am interested in the emerging properties and non-trivial behaviors of disordered materials, such as liquids, glasses, complex alloys, and granular matter. I use state-of-the-art computational and numerical methods to probe and understand the physics behind the intriguing properties of these systems. 
+Greetings! I am an Associate Professor at the Department of Materials Science, Chongqing University (China). I am interested in the emerging properties and non-trivial behaviors of disordered materials, such as liquids, glasses, complex alloys, and granular matter. I use state-of-the-art computational and numerical methods to probe and understand the physics behind the intriguing properties of these systems. 
 
 Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#publications); [Resources](#resources)
 
@@ -10,9 +10,9 @@ Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#pu
 
 # Resume
 **Dr. Zhen Zhang**<br>
-College of Mathematics and Physics<br>
-Chengdu University of Technology<br>
-Chengdu 610059, China<br>
+Department of Materials Science<br>
+Chongqing University<br>
+Chongqing 400044, China<br>
 Email: zhen.zhang1991@hotmail.com<br>
 [Homepage](https://zhenzhang1991.github.io); [Google Scholar](https://scholar.google.com/citations?user=xlcoVIUAAAAJ&hl=en); 
 [ORCID](https://orcid.org/0000-0003-2128-6215); [CV](docs/ZhenZhangCV-July2023.pdf)
@@ -26,8 +26,7 @@ Email: zhen.zhang1991@hotmail.com<br>
 
 **Employment**
 
-2023-present  Research Scientist, College of Mathematics and Physics, Chengdu University of Technology, <br> 
-       China <br>
+2023-present  Associate Professor, Department of Materials Science, Chongqing University, China <br>
 2020-2023   Postdoctoral Researcher, State Key Laboratory for Mechanical Behavior of Materials, Xi’an <br> 
        Jiaotong University, China (with Prof. [Evan Ma](https://scholar.google.com/citations?user=wvnI5qIAAAAJ&hl=en) and Prof. [Jun Ding](http://gr.xjtu.edu.cn/en/web/dingsn/home)) <br>
 2020     Visiting Scholar, School of Physics and Astronomy, Shanghai Jiao Tong University, China <br>
