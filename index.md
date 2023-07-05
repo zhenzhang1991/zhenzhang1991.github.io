@@ -77,7 +77,7 @@ Publications for more details:
 ## 4) Irradiation response of multi-principal element alloys
 
 High- and medium-entropy alloys (H/MEAs) are an emerging type of materials with great potentials in both structural and nuclear applications. Recent studies have shown that a salient feature that sets these alloys apart from pure metals and dilute solid solutions is their chemical complexities in the form of local chemical order (LCO). Combining atomistic simulations with in situ ion irradiation experiments, we demonstrated for a representative CrCoNi MEA that increased LCO significantly enhances its resistance to irradiation damage by narrowing the mobility ratio of irradiation-induced interstitials and
-vacancies that can facilitate their recombination.  This finding opens an avenue towards the design of structurally and chemically complex materials with superior irradiation tolerance. 
+vacancies that can facilitate their recombination.  This finding opens an avenue towards the design of structurally and chemically complex materials with superior radiation tolerance. 
 
 Publication for more details:
 *  *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://www.pnas.org/doi/abs/10.1073/pnas.2218673120)
