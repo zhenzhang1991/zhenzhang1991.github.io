@@ -13,7 +13,7 @@ Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#pu
 Department of Materials Science<br>
 Chongqing University<br>
 Chongqing 400044, China<br>
-Email: zhen.zhang1991@hotmail.com<br>
+Email: zhenzhang@cqu.edu.cn<br>
 [Homepage](https://zhenzhang1991.github.io); [Google Scholar](https://scholar.google.com/citations?user=xlcoVIUAAAAJ&hl=en); 
 [ORCID](https://orcid.org/0000-0003-2128-6215); [CV](docs/ZhenZhangCV-July2023.pdf)
 
