@@ -2,7 +2,7 @@
 layout: default
 ---
 <img align="left" src="images/me.jpg" width="118">
-Greetings! I am an Associate Professor at the Department of Materials Science, Chongqing University (China). My researh focuses on the microstructure-property relationships in disordered materials, such as liquids, glasses, complex alloys, and granular matter. I use state-of-the-art computational and numerical methods to probe and understand the physics behind the intriguing properties of these systems. 
+Greetings! I am an Research Scientist at the Department of Physics, Chengdu University of Technology (China). My researh focuses on the structure and properties if disordered systems, such as liquids, glasses, complex alloys, and granular matter. I use state-of-the-art computational and numerical methods to probe and understand the physics behind the intriguing behavior of these systems. 
 
 Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#publications); [Resources](#resources)
 
@@ -10,10 +10,10 @@ Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#pu
 
 # Resume
 **Dr. Zhen Zhang**<br>
-Department of Materials Science<br>
-Chongqing University<br>
-Chongqing 400044, China<br>
-Email: zhenzhang@cqu.edu.cn<br>
+Department of Physics<br>
+Chengdu University of Technology<br>
+Chengdu 610059, China<br>
+Email: zhen.zhang1991@hotmail.com<br>
 [Homepage](https://zhenzhang1991.github.io); [Google Scholar](https://scholar.google.com/citations?user=xlcoVIUAAAAJ&hl=en); 
 [ORCID](https://orcid.org/0000-0003-2128-6215); [Wob of Science](https://www.webofscience.com/wos/author/record/IWE-2491-2023); [CV](docs/ZhenZhangCV-July2023.pdf)
 
