@@ -26,7 +26,7 @@ Email: zhen.zhang1991@hotmail.com<br>
 
 **Employment**
 
-2023-present  Resarch Scientist, Department of Physics, CHengdu University of Technology, China <br>
+2023-present  Resarch Scientist, Department of Physics, Chengdu University of Technology, China <br>
 2020-2023   Postdoctoral Researcher, State Key Laboratory for Mechanical Behavior of Materials, Xi’an <br> 
        Jiaotong University, China (with Prof. [Evan Ma](https://scholar.google.com/citations?user=wvnI5qIAAAAJ&hl=en) and Prof. [Jun Ding](http://gr.xjtu.edu.cn/en/web/dingsn/home)) <br>
 2020     Visiting Scholar, School of Physics and Astronomy, Shanghai Jiao Tong University, China <br>
