@@ -4,7 +4,7 @@ layout: default
 <img align="left" src="images/me.jpg" width="118">
 Greetings! I am an Research Scientist at the Department of Physics, Chengdu University of Technology (China). My researh focuses on the structure and properties of disordered systems, such as liquids, glasses, complex alloys, and granular matter. I use state-of-the-art computational and numerical methods to probe and understand the physics behind the intriguing behavior of these systems. 
 
-Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#publications); [Resources](#resources)
+Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#publications); [Resources](#resources); [Members](#members)
 
 * * *
 
@@ -111,3 +111,6 @@ spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isij
 # Resources
 ## Codes and scripts
 [Four-point correlation structural analysis](https://github.com/zhenzhang1991/three-dimensional-structure)
+
+# Members
+
