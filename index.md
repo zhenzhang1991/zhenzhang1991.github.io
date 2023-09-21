@@ -108,13 +108,17 @@ spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isij
 {: reversed="reversed"}
 * * *
 
+# Group Members
+| Name | Role | Duration |
+| ---- | ---- | -------- |
+| 谢征乘 | 硕士研究生 | 09/2023-now |
+| 宋治俊 | 硕士研究生 | 09/2023-now |
+| 肖楠清 | 博士研究生 | 09/2022-now |
+* * *
+
 # Resources
 ## Codes and scripts
 [Four-point correlation structural analysis](https://github.com/zhenzhang1991/three-dimensional-structure)
 
-# Group Members
-Zhencheng Xie, Graduate student, from 09/2023-now
-Zhijun Song, Graduate student, from 09/2023-now
-Nanqing Xiao, Doctoral student, from 09/2022-now
 
 
