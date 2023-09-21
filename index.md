@@ -109,9 +109,6 @@ spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isij
 * * *
 
 # Group Members
-| A simple | table |
-| with multiple | lines|
-{: .my-class }
 
 | Name | Role | Duration |
 | ---- | ---- | -------- |
