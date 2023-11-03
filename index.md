@@ -15,7 +15,7 @@ Chengdu University of Technology<br>
 Chengdu 610059, China<br>
 Email: zhen.zhang@cdut.edu.cn<br>
 [Homepage](https://zhenzhang1991.github.io); [Google Scholar](https://scholar.google.com/citations?user=xlcoVIUAAAAJ&hl=en); 
-[ORCID](https://orcid.org/0000-0003-2128-6215); [Wob of Science](https://www.webofscience.com/wos/author/record/IWE-2491-2023); [CV](docs/ZhenZhangCV-Sep2023.pdf)
+[ORCID](https://orcid.org/0000-0003-2128-6215); [Web of Science](https://www.webofscience.com/wos/author/record/IWE-2491-2023); [CV](docs/ZhenZhangCV-Sep2023.pdf)
 
 **Education**
 
