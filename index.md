@@ -113,7 +113,6 @@ spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isij
 | Name | Role | Duration |
 | ---- | ---- | -------- |
 | 谢征乘 | 硕士研究生 | 09/2023-now |
-| 宋治俊 | 硕士研究生 | 09/2023-now |
 | 肖楠清 | 博士研究生 | 09/2022-now |
 
 
