@@ -112,9 +112,9 @@ spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isij
 
 | Name | Role | Duration | Research direction |
 | ---- | ---- | -------- | -------------- |
-| Nanqin Xiao (肖楠清) | Graduate studient | 09/2022-now | Frictional granular matter |
-| Zhengcheng Xie (谢征乘) | Graduate student | 09/2023-now | Oxide glasses under extreme deformation |
-| Xin Zhang (张鑫) | Undergraduate student | 11/2023-now |  |
+| Nanqin Xiao | Graduate student | 09/2022-now | Frictional granular matter |
+| Zhengcheng Xie | Graduate student | 09/2023-now | Oxide glasses under extreme deformation |
+| Xin Zhang | Undergraduate student | 11/2023-now |  |
 
 * * *
 
