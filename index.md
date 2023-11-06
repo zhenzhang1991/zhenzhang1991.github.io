@@ -112,9 +112,9 @@ spectroscopy. [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isij
 
 | Name | Role | Duration |
 | ---- | ---- | -------- |
-| 谢征乘 | 硕士研究生 | 09/2023-now |
-| 肖楠清 | 博士研究生 | 09/2022-now |
-
+| Nanqin Xiao (肖楠清) | Graduate studient | 09/2022-now |
+| Zhengcheng Xie (谢征乘) | Graduate student | 09/2023-now |
+| Xin Zhang (张鑫) | Undergraduate student | 11/2023-now |
 
 * * *
 
