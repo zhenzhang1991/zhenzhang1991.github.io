@@ -99,7 +99,7 @@ Publication for more details:
    [Proc. Natl. Acad. Sci. U.S.A.,120, e2300923120 (2023).](https://doi.org/10.1073/pnas.2300923120) 
 0. *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma <br>
    Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy.<br>
-   [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://doi.org/10.1073/pnas.2218673120) News: [XJTU](http://news.xjtu.edu.cn/info/1033/193974.htm)
+   [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://doi.org/10.1073/pnas.2218673120) [News: [XJTU](http://news.xjtu.edu.cn/info/1033/193974.htm)]
 0. Zhi-Hao Wang, Xuan-Yan Chen, *Zhen Zhang*, Xie Zhang, Su-Huai Wei <br>
    Profiling the off-center atomic displacements in CuCl at finite temperatures with a deep-learning potential. <br>
    [Phys. Rev. Mater., 7, 034601 (2023).](https://doi.org/10.1103/PhysRevMaterials.7.034601)
@@ -111,7 +111,7 @@ Publication for more details:
    [J. Mater. Sci. Technol., 135, 221-230 (2023).](https://doi.org/10.1016/j.jmst.2022.06.047)
 0. *Zhen Zhang*, Jun Ding, and Evan Ma <br>
    Shear transformations in metallic glasses without excessive and predefinable defects <br>
-   [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119) News: [XJTU](http://news.xjtu.edu.cn/info/1219/189693.htm)
+   [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119) [News: [XJTU](http://news.xjtu.edu.cn/info/1219/189693.htm)]
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob
    Fracture of silicate glasses: Microcavities and correlations between atomic-level properties. <br>
    [Phys. Rev. Mater., 6, 085601 (2022).](https://doi.org/10.1103/PhysRevMaterials.6.085601)
