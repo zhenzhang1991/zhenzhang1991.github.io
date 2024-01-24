@@ -87,7 +87,7 @@ Publication for more details:
 # Publications
 0. Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, *Zhen Zhang* <br>
    Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations. <br>
-   [J. Am. Ceram. Soc., 107,1448 (2024). Editor's Choice](https://doi.org/10.1111/jace.19230)
+   [J. Am. Ceram. Soc., 107,1448 (2024).](https://doi.org/10.1111/jace.19230) **Editor's Choice**
 0. Jiajun Tang, Xiaohui Wen, *Zhen Zhang*, Deyin Wang, Xinbiao Huang, Yujie Wang <br>
    Influence of friction on the packing efficiency and short-to-intermediate range structure of hard-sphere systems. <br>
    [J. Chem. Phys., 159, 194901 (2023).](https://doi.org/10.1063/5.0175513)
