@@ -72,7 +72,7 @@ Publications for more details:
 *  *Zhen Zhang*, Simona Ispas, Walter Kob. Surface properties of alkali silicate glasses: Influence of the modifiers. [J. Chem. Phys., 158, 244504 (2023).](docs/2023-zhang-jcp.pdf)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Roughness and scaling properties of oxide glass surfaces at the nanoscale. [Phys. Rev. Lett., 126, 066101 (2021).](docs/2021-zhang-prl.pdf)
 *  *Zhen Zhang*, Walter Kob, and Simona Ispas. First-principles study of the surface of silica and sodium silicate glasses. [Phys. Rev.B, 103, 184201 (2021).](docs/2021-zhang-prb.pdf)
-*  *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [J Chem. Phys., 153, 124503 (2020).](docs/2020-zhang-jcp.pdf)
+*  *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [J. Chem. Phys., 153, 124503 (2020).](docs/2020-zhang-jcp.pdf)
 
 ## 4) Irradiation response of multi-principal element alloys
 
