@@ -87,58 +87,58 @@ Publication for more details:
 # Publications
 0. Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, *Zhen Zhang* <br>
    Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations. <br>
-   [Journal of the American Ceramic Society, 107,1448 (2024). Editor's Choice](https://doi.org/10.1111/jace.19230)
+   [J. Am. Ceram. Soc., 107,1448 (2024). Editor's Choice](https://doi.org/10.1111/jace.19230)
 0. Jiajun Tang, Xiaohui Wen, *Zhen Zhang*, Deyin Wang, Xinbiao Huang, Yujie Wang <br>
    Influence of friction on the packing efficiency and short-to-intermediate range structure of hard-sphere systems. <br>
-   [The Journal of Chemical Physics, 159, 194901 (2023).](https://doi.org/10.1063/5.0175513)
+   [J. Chem. Phys., 159, 194901 (2023).](https://doi.org/10.1063/5.0175513)
 0. *Zhen Zhang*, Simona Ispas, Walter Kob <br>
    Surface properties of alkali silicate glasses: Influence of the modifiers. <br>
-   [The Journal of Chemical Physics, 158, 244504 (2023).](https://doi.org/10.1063/5.0155497)
+   [J. Chem. Phys., 158, 244504 (2023).](https://doi.org/10.1063/5.0155497)
 0. Navneet Singh, *Zhen Zhang*, AK Sood, Walter Kob, Rajesh Ganapathy <br>
    Intermediate-range order governs dynamics in dense colloidal liquids. <br>
-   [Proceedings of the National Academy of Sciences of the United States of America,120, e2300923120 (2023).](https://doi.org/10.1073/pnas.2300923120) 
+   [Proc. Natl. Acad. Sci. U.S.A.,120, e2300923120 (2023).](https://doi.org/10.1073/pnas.2300923120) 
 0. *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma
    Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy.<br>
-   [Proceedings of the National Academy of Sciences of the United States of America, 120, e2218673120 (2023).](https://doi.org/10.1073/pnas.2218673120)
+   [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://doi.org/10.1073/pnas.2218673120)
 0. Zhi-Hao Wang, Xuan-Yan Chen, *Zhen Zhang*, Xie Zhang, Su-Huai Wei <br>
    Profiling the off-center atomic displacements in CuCl at finite temperatures with a deep-learning potential. <br>
-   [Physical Review Materials, 7, 034601 (2023).](https://doi.org/10.1103/PhysRevMaterials.7.034601)
+   [Phys. Rev. Mater., 7, 034601 (2023).](https://doi.org/10.1103/PhysRevMaterials.7.034601)
 0. Chang Liu, *Zhen Zhang*, Jun Ding, and Evan Ma <br>
    On the reliability of using reverse Monte Carlo simulations to construct the atomic structure model of metallic glasses.<br>
-   [Scripta Materialia, 225, 115159 (2023).](https://doi.org/10.1016/j.scriptamat.2022.115159)
+   [Scr. Mater., 225, 115159 (2023).](https://doi.org/10.1016/j.scriptamat.2022.115159)
 0. Kaihui Xun, Bozhao Zhang, Qi Wang, *Zhen Zhang*, Jun Ding, En Ma <br>
    Local chemical inhomogeneities in TiZrNb-based refractory high-entropy alloys. <br>
-   [Journal of Materials Science & Technology, 135, 221-230 (2023).](https://doi.org/10.1016/j.jmst.2022.06.047)
+   [J. Mater. Sci. Technol., 135, 221-230 (2023).](https://doi.org/10.1016/j.jmst.2022.06.047)
 0. *Zhen Zhang*, Jun Ding, and Evan Ma <br>
    Shear transformations in metallic glasses without excessive and predefinable defects <br>
-   [Proceedings of the National Academy of Sciences of the United States of America, 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119) 
+   [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022).](https://doi.org/10.1073/pnas.2213941119) 
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob
    Fracture of silicate glasses: Microcavities and correlations between atomic-level properties. <br>
-   [Physical Review Materials, 6, 085601 (2022).](https://doi.org/10.1103/PhysRevMaterials.6.085601)
+   [Phys. Rev. Mater., 6, 085601 (2022).](https://doi.org/10.1103/PhysRevMaterials.6.085601)
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
    Origin of the non-linear elastic behavior of silicate glasses. <br>
-   [Acta Materialia, 231, 117855 (2022).](https://doi.org/10.1016/j.actamat.2022.117855)
+   [Acta Mater., 231, 117855 (2022).](https://doi.org/10.1016/j.actamat.2022.117855)
 0. Houfei Yuan, *Zhen Zhang*, Walter Kob, and Yujie Wang <br>
    Connecting packing efficiency of binary hard sphere systems to their intermediate range structure. <br>
-   [Physical Review Letters, 127, 278001 (2021).](https://doi.org/10.1103/PhysRevLett.127.278001)
+   [Phys. Rev. Lett., 127, 278001 (2021).](https://doi.org/10.1103/PhysRevLett.127.278001)
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
    Roughness and scaling properties of oxide glass surfaces at the nanoscale. <br>
-   [Physical Review Letters, 126, 066101 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
+   [Phys. Rev. Lett., 126, 066101 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.066101)
 0. *Zhen Zhang*, Walter Kob, and Simona Ispas <br>
    First-principles study of the surface of silica and sodium silicate glasses. <br>
-   [Physical Review B, 103, 184201 (2021).](https://doi.org/10.1103/PhysRevB.103.184201)
+   [Phys. Rev. B, 103, 184201 (2021).](https://doi.org/10.1103/PhysRevB.103.184201)
 0. *Zhen Zhang* and Walter Kob <br>
    Revealing the three-dimensional structure of liquids using four-point correlation functions. <br>
-   [Proceedings of the National Academy of Sciences of the United States of America, 117, 14032 (2020).](https://doi.org/10.1073/pnas.2005638117)
+   [Proc. Natl. Acad. Sci. U.S.A., 117, 14032 (2020).](https://doi.org/10.1073/pnas.2005638117)
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
    Structure and vibrational properties of sodium silicate glass surfaces. <br>
-   [The Journal of Chemical Physics, 153, 124503 (2020).](https://doi.org/10.1063/5.0019514)
+   [J. Chem. Phys., 153, 124503 (2020).](https://doi.org/10.1063/5.0019514)
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
    The critical role of the interaction potential and simulation protocol for the structural and mechanical properties of sodosilicate glasses. <br>
-   [Journal of Non-Crystalline Solids, 532, 119895 (2020).](https://doi.org/10.1016/j.jnoncrysol.2020.119895)
+   [J. Non-Cryst. Solids, 532, 119895 (2020).](https://doi.org/10.1016/j.jnoncrysol.2020.119895)
 0. *Zhen Zhang*, Bing Xie, Wang Zhou, Jiang Diao, and Hongyi Li <br>
    Structural characterization of FeO-SiO2-V2O3 slags using molecular dynamics simulations and FTIR spectroscopy. <br>
-   [ISIJ International, 56, 828 (2016).](https://doi.org/10.2355/isijinternational.ISIJINT-2015-600)
+   [ISIJ Int., 56, 828 (2016).](https://doi.org/10.2355/isijinternational.ISIJINT-2015-600)
 {: reversed="reversed"}
 * * *
 
