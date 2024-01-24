@@ -95,8 +95,8 @@ Publication for more details:
    Surface properties of alkali silicate glasses: Influence of the modifiers. <br>
    [The Journal of Chemical Physics, 158, 244504 (2023).](https://doi.org/10.1063/5.0155497)
 0. Navneet Singh, *Zhen Zhang*, AK Sood, Walter Kob, Rajesh Ganapathy <br>
-Intermediate-range order governs dynamics in dense colloidal liquids.
-[Proc. Natl. Acad. Sci. U.S.A.,120, e2300923120 (2023).](https://doi.org/10.1073/pnas.2300923120) <br>
+   Intermediate-range order governs dynamics in dense colloidal liquids. <br>
+   [Proc. Natl. Acad. Sci. U.S.A.,120, e2300923120 (2023).](https://doi.org/10.1073/pnas.2300923120) 
 0. *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma
    Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy.<br>
    [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://doi.org/10.1073/pnas.2218673120)
