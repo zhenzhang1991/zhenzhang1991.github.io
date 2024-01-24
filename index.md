@@ -117,7 +117,7 @@ Publication for more details:
    [Phys. Rev. Mater., 6, 085601 (2022).](https://doi.org/10.1103/PhysRevMaterials.6.085601)
 0. *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
    Origin of the non-linear elastic behavior of silicate glasses. <br>
-   [Acta Mater., 231, 117855 (2022).](https://doi.org/10.1016/j.actamat.2022.117855) News: [MSE](https://mp.weixin.qq.com/s/kmkXOZsHK5hV2Nso0SdtVA)
+   [Acta Mater., 231, 117855 (2022).](https://doi.org/10.1016/j.actamat.2022.117855) [News: [MSE](https://mp.weixin.qq.com/s/kmkXOZsHK5hV2Nso0SdtVA)]
 0. Houfei Yuan, *Zhen Zhang*, Walter Kob, and Yujie Wang <br>
    Connecting packing efficiency of binary hard sphere systems to their intermediate range structure. <br>
    [Phys. Rev. Lett., 127, 278001 (2021).](https://doi.org/10.1103/PhysRevLett.127.278001)
