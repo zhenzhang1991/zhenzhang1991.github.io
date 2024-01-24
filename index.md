@@ -85,9 +85,9 @@ Publication for more details:
 * * *
 
 # Publications
+0. Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, *Zhen Zhang*. Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations. [Journal of the American Ceramic Society, 107,1448 (2024). Editor's Choice](https://doi.org/10.1111/jace.19230)
 0. Jiajun Tang, Xiaohui Wen, *Zhen Zhang*, Deyin Wang, Xinbiao Huang, Yujie Wang. Influence of friction on the packing efficiency and short-to-intermediate range structure of hard-sphere systems. [The Journal of Chemical Physics, 159, 194901 (2023).](https://doi.org/10.1063/5.0175513)
 0. *Zhen Zhang*, Simona Ispas, Walter Kob. Surface properties of alkali silicate glasses: Influence of the modifiers. [The Journal of Chemical Physics, 158, 244504 (2023).](https://doi.org/10.1063/5.0155497)
-0. Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, *Zhen Zhang*. Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations. [Journal of the American Ceramic Society, 107,1448 (2024). Editor's Choice](https://doi.org/10.1111/jace.19230)
 0. Navneet Singh, *Zhen Zhang*, AK Sood, Walter Kob, Rajesh Ganapathy. Intermediate-range order governs dynamics in dense colloidal liquids. [Proc. Natl. Acad. Sci. U.S.A.,120, e2300923120 (2023).](https://doi.org/10.1073/pnas.2300923120)
 0. *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](https://doi.org/10.1073/pnas.2218673120)
 0. Zhi-Hao Wang, Xuan-Yan Chen, *Zhen Zhang*, Xie Zhang, Su-Huai Wei. Profiling the off-center atomic displacements in CuCl at finite temperatures with a deep-learning potential. [Physical Review Materials, 7, 034601 (2023).](https://doi.org/10.1103/PhysRevMaterials.7.034601)
