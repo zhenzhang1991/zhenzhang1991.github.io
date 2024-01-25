@@ -79,6 +79,9 @@ Publications for more details:
 High- and medium-entropy alloys (H/MEAs) are an emerging type of materials with great potentials in both structural and nuclear applications. Recent studies have shown that a salient feature that sets these alloys apart from pure metals and dilute solid solutions is their chemical complexities in the form of local chemical order (LCO). Combining atomistic simulations with in situ ion irradiation experiments, we demonstrated for a representative CrCoNi MEA that increased LCO significantly enhances its resistance to irradiation damage by narrowing the mobility ratio of irradiation-induced interstitials and
 vacancies that can facilitate their recombination. Using ab-initio simulations, we also demonstrate that further manipulation of the dynamics of point defects can be achieved by taking advantage of the atomic size disparity in the equiatomic NiCoCrFe(Pd) alloy. These findings open avenues towards the design of structurally and chemically complex materials with superior radiation tolerance. 
 
+
+<img align="center" src="images/irradiation-diffusion.jpg" width="900">
+
 Publication for more details:
 *  *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, and Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](docs/2023-zhang-pnas.pdf)
 *  Bozhao Zhang, *Zhen Zhang*, Kaihui Xun, Mark Asta, Jun Ding, and Evan Ma. Minimizing the diffusivity difference between vacancies and interstitials in multi-­principal element alloys. [Proc. Natl. Acad. Sci. U.S.A., 121, e2314248121 (2024).](docs/2024-zhangb-pnas.pdf)
