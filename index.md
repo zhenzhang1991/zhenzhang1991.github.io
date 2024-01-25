@@ -91,7 +91,7 @@ Publication for more details:
 # Publications
 0. Minimizing the diffusivity difference between vacancies and interstitials in multi-­principal element alloys <br>
    Bozhao Zhang, *Zhen Zhang*, Kaihui Xun, Mark Asta, Jun Ding, and Evan Ma <br>
-   [Proc. Natl. Acad. Sci. U.S.A., 121, e2314248121 (2024)](docs/2024-zhangb-pnas.pdf) 
+   [Proc. Natl. Acad. Sci. U.S.A., 121, e2314248121 (2024)](docs/2024-zhangb-pnas.pdf) [News: [XJTU](https://news.xjtu.edu.cn/info/1004/206163.htm)]
 0. Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations <br>
    Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, and *Zhen Zhang* <br>
    [J. Am. Ceram. Soc., 107,1448 (2024)](docs/2023-lu-jace.pdf) [Editor's Choice]
