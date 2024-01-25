@@ -80,15 +80,15 @@ High- and medium-entropy alloys (H/MEAs) are an emerging type of materials with 
 vacancies that can facilitate their recombination.  This finding opens an avenue towards the design of structurally and chemically complex materials with superior radiation tolerance. 
 
 Publication for more details:
-*  *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, and Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](doc/2023-zhang-pnas.pdf)
-*  Bozhao Zhang, *Zhen Zhang*, Kaihui Xun, Mark Asta, Jun Ding, and Evan Ma. Minimizing the diffusivity difference between vacancies and interstitials in multi-­principal element alloys. [Proc. Natl. Acad. Sci. U.S.A., 121, e2314248121 (2024).](doc/2024-zhangb-pnas.pdf)
+*  *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, and Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](docs/2023-zhang-pnas.pdf)
+*  Bozhao Zhang, *Zhen Zhang*, Kaihui Xun, Mark Asta, Jun Ding, and Evan Ma. Minimizing the diffusivity difference between vacancies and interstitials in multi-­principal element alloys. [Proc. Natl. Acad. Sci. U.S.A., 121, e2314248121 (2024).](docs/2024-zhangb-pnas.pdf)
 
 * * *
 
 # Publications
 0. Bozhao Zhang, *Zhen Zhang*, Kaihui Xun, Mark Asta, Jun Ding, and Evan Ma <br>
    Minimizing the diffusivity difference between vacancies and interstitials in multi-­principal element alloys <br>
-   [Proc. Natl. Acad. Sci. U.S.A., 121, e2314248121 (2024)](doc/2024-zhangb-pnas.pdf) 
+   [Proc. Natl. Acad. Sci. U.S.A., 121, e2314248121 (2024)](docs/2024-zhangb-pnas.pdf) 
 0. Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, and *Zhen Zhang* <br>
    Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations <br>
    [J. Am. Ceram. Soc., 107,1448 (2024)](docs/2023-lu-jace.pdf) [Editor's Choice]
