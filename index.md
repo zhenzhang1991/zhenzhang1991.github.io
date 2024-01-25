@@ -87,7 +87,7 @@ Publication for more details:
 
 # Publications
 0. Bozhao Zhang, *Zhen Zhang*, Kaihui Xun, Mark Asta, Jun Ding, and Evan Ma <br>
-   *Minimizing the diffusivity difference between vacancies and interstitials in multi-­principal element alloys <br>*
+   Minimizing the diffusivity difference between vacancies and interstitials in multi-­principal element alloys <br>
    [Proc. Natl. Acad. Sci. U.S.A., 121, e2314248121 (2024)](doc/2024-zhangb-pnas.pdf) 
 0. Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, *Zhen Zhang* <br>
    Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations <br>
