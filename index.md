@@ -71,7 +71,7 @@ Surface properties lie at the core of many applications of silicate glasses. In 
 Publications for more details:
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Surface properties of alkali silicate glasses: Influence of the modifiers. [J. Chem. Phys., 158, 244504 (2023).](docs/2023-zhang-jcp.pdf)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Roughness and scaling properties of oxide glass surfaces at the nanoscale. [Phys. Rev. Lett., 126, 066101 (2021).](docs/2021-zhang-prl.pdf)
-*  *Zhen Zhang*, Walter Kob, and Simona Ispas. First-principles study of the surface of silica and sodium silicate glasses. [Phys. Rev.B, 103, 184201 (2021).](docs/2021-zhang-prb.pdf)
+*  *Zhen Zhang*, Walter Kob, and Simona Ispas. First-principles study of the surface of silica and sodium silicate glasses. [Phys. Rev. B, 103, 184201 (2021).](docs/2021-zhang-prb.pdf)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Structure and vibrational properties of sodium silicate glass surfaces. [J. Chem. Phys., 153, 124503 (2020).](docs/2020-zhang-jcp.pdf)
 
 ## 4) Irradiation response of multi-principal element alloys
@@ -82,7 +82,7 @@ vacancies that can facilitate their recombination. Using ab-initio simulations, 
 
 <img align="center" src="images/irradiation-diffusion.jpg" width="900">
 
-Publication for more details:
+Publications for more details:
 *  *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, and Evan Ma. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy. [Proc. Natl. Acad. Sci. U.S.A., 120, e2218673120 (2023).](docs/2023-zhang-pnas.pdf)
 *  Bozhao Zhang, *Zhen Zhang*, Kaihui Xun, Mark Asta, Jun Ding, and Evan Ma. Minimizing the diffusivity difference between vacancies and interstitials in multi-­principal element alloys. [Proc. Natl. Acad. Sci. U.S.A., 121, e2314248121 (2024).](docs/2024-zhangb-pnas.pdf)
 
