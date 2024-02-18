@@ -89,7 +89,7 @@ Publications for more details:
 
 * * *
 
-# Publications
+# Peer-reviewed publications
 0. Minimizing the diffusivity difference between vacancies and interstitials in multi-­principal element alloys <br>
    Bozhao Zhang, *Zhen Zhang*, Kaihui Xun, Mark Asta, Jun Ding, and Evan Ma <br>
    [Proc. Natl. Acad. Sci. U.S.A., 121, e2314248121 (2024)](docs/2024-zhangb-pnas.pdf) [News: [XJTU](https://news.xjtu.edu.cn/info/1004/206163.htm)]
