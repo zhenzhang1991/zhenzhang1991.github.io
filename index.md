@@ -121,7 +121,7 @@ Publications for more details:
    *Zhen Zhang*, Jun Ding, and Evan Ma <br>
    [Proc. Natl. Acad. Sci. U.S.A., 119, e2213941119 (2022)](docs/2022-zhang-pnas.pdf) [News: [XJTU](http://news.xjtu.edu.cn/info/1219/189693.htm)]
 0. Fracture of silicate glasses: Microcavities and correlations between atomic-level properties <br>
-   *Zhen Zhang*, Simona Ispas, and Walter Kob
+   *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
    [Phys. Rev. Mater., 6, 085601 (2022)](docs/2022-zhang-prm.pdf)
 0. Origin of the non-linear elastic behavior of silicate glasses <br>
    *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
