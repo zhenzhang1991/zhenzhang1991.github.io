@@ -156,7 +156,8 @@ Publications for more details:
 | ---- | ---- | -------- | -------------- |
 | Nanqin Xiao | Graduate student | 09/2022-now | Frictional granular matter |
 | Zhengcheng Xie | Graduate student | 09/2023-now | Oxide glasses under extreme deformation |
-| Xin Zhang | Undergraduate student | 11/2023-now |  |
+| Tiannan Shen | Graduate student | 03/2024-now | Structure and dynamics of oxide glass formers |
+| Jun Wu | Graduate student | 04/2024-now | Glasses under extreme deformation | 
 
 * * *
 
