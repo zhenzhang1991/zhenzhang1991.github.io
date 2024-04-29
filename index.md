@@ -162,7 +162,7 @@ Publications for more details:
 
 # Resources
 ## Codes and scripts
-[Four-point correlation structural analysis](https://github.com/zhenzhang1991/three-dimensional-structure)
+[Four-point correlation structural analysis](https://github.com/zhenzhang1991/three-dimensional-structure)<br>
 [SHIK potential for MD simulations of oxide liquids and glasses](https://github.com/compmatscirpi/SHIK-potential)
 
 
