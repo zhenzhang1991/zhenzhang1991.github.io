@@ -2,7 +2,7 @@
 layout: default
 ---
 <img align="left" src="images/me.jpg" width="118">
-Greetings. I am a Research Scientist at the Department of Physics, Chengdu University of Technology (China). My research focuses on the structure and properties of disordered systems, such as liquids, glasses, complex alloys, and granular materials. I use state-of-the-art computational and numerical methods to probe and understand the physics behind the intriguing behavior of these systems. 
+Greetings. I am a Research Scientist in the Department of Physics at Chengdu University of Technology, China. My research centers on investigating the structure and properties of disordered systems, such as liquids, glasses, complex alloys, and granular matter. I utilize and develop advanced computational and numerical techniques to explore the physical origins underlying the fascinating behaviors exhibited by these systems.
 
 Jump to: [Resume](#resume); [Research](#research-highlights); [Publications](#publications); [Resources](#resources); [People](#group-members)
 
