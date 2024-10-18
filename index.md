@@ -26,6 +26,7 @@ Email: zhen.zhang@cdut.edu.cn<br>
 
 
 **Employment**
+
 2024-present  Visiting Scientist, Research Center for Advanced Science and Technology, The University of Tokyo, Japan <br>
 2023-present  Research Scientist, Department of Physics, Chengdu University of Technology, China <br>
 2020-2023   Postdoctoral Researcher, State Key Laboratory for Mechanical Behavior of Materials, Xi’an <br> 
