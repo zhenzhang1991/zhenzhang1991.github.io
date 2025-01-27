@@ -93,6 +93,9 @@ Publications for more details:
 * * *
 
 # Peer-reviewed publications
+0. Universal power-law scaling in the packing structure of frictional granular materials <br>
+   Jiajun Tang, Xiaohui Wen, *Zhen Zhang*, and Yujie Wang <br>
+   [Phys. Rev. E **111**, 015420 (2025)](docs/2025-pre-tang.pdf)
 0. Distinct deformation mechanisms of silicate glasses under nanoindentation: The critical role of structure <br>
    Ziming Yan, Ranran Lu, Linfeng Ding, Lianjun Wang, and *Zhen Zhang* <br>
    [J. Appl. Phys. **136**, 245101 (2024)](docs/2024-jap-yan.pdf) [Featured and on the Cover]
