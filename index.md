@@ -94,11 +94,11 @@ Publications for more details:
 
 # Peer-reviewed publications
 0. Universal power-law scaling in the packing structure of frictional granular materials <br>
-   Jiajun Tang, Xiaohui Wen, *Zhen Zhang*, and Yujie Wang <br>
-   [Phys. Rev. E **111**, 015420 (2025)](docs/2025-pre-tang.pdf)
+   Jiajun Tang, Xiaohui Wen, *Zhen Zhang*, and Yujie Wang <br> 
+   [Phys. Rev. E **111**, 015420 (2025)](docs/2025-pre-tang.pdf) [News: [CDUT](https://cop.cdut.edu.cn/info/1638/5321.htm)]
 0. Distinct deformation mechanisms of silicate glasses under nanoindentation: The critical role of structure <br>
    Ziming Yan, Ranran Lu, Linfeng Ding, Lianjun Wang, and *Zhen Zhang* <br>
-   [J. Appl. Phys. **136**, 245101 (2024)](docs/2024-jap-yan.pdf) [Featured and on the Cover]
+   [J. Appl. Phys. **136**, 245101 (2024)](docs/2024-jap-yan.pdf) [Featured and on the Cover] [News: [GEOO](https://mp.weixin.qq.com/s/UjwDFmg3sYmH-IKmRL3Jcw)]
 0. Revealing hidden medium-range order in silicate glass formers using many-body correlation functions <br>
    *Zhen Zhang* and Walter Kob <br>
    [Phys. Rev. B **110**, 104203 (2024)](docs/2024-zhang-prb.pdf) [Editors' Suggestion]
@@ -107,10 +107,10 @@ Publications for more details:
    [Proc. Natl. Acad. Sci. U.S.A. **121**, e2314248121 (2024)](docs/2024-zhangb-pnas.pdf) [News: [XJTU](https://news.xjtu.edu.cn/info/1004/206163.htm)]
 0. Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations <br>
    Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, and *Zhen Zhang* <br>
-   [J. Am. Ceram. Soc. **107**,1448 (2024)](docs/2023-lu-jace.pdf) [Editor's Choice]
+   [J. Am. Ceram. Soc. **107**,1448 (2024)](docs/2023-lu-jace.pdf) [Editor's Choice] [News: [GEOO](https://mp.weixin.qq.com/s/UjwDFmg3sYmH-IKmRL3Jcw)]
 0. Influence of friction on the packing efficiency and short-to-intermediate range structure of hard-sphere systems <br>
    Jiajun Tang, Xiaohui Wen, *Zhen Zhang*, Deyin Wang, Xinbiao Huang, and Yujie Wang <br>
-   [J. Chem. Phys. **159**, 194901 (2023)](docs/2023-tang-jcp.pdf)
+   [J. Chem. Phys. **159**, 194901 (2023)](docs/2023-tang-jcp.pdf) [News: [CDUT](https://cop.cdut.edu.cn/info/1638/5321.htm)]
 0. Surface properties of alkali silicate glasses: Influence of the modifiers <br>
    *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
    [J. Chem. Phys. **158**, 244504 (2023)](docs/2023-zhang-jcp.pdf)
