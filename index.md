@@ -20,7 +20,7 @@ Email: zhen.zhang@cdut.edu.cn<br>
 **Education**
 
 2016-2020   Ph.D in Physics, University of Montpellier, France <br>
-       (with Prof. [Walter Kob](https://coulomb.umontpellier.fr/perso/walter.kob/) and Dr. [Simona Ispas](https://www.researchgate.net/profile/Simona-Ispas)) <br>
+       (with Prof. [Walter Kob](https://coulomb.umontpellier.fr/perso/walter.kob/) and Dr. [Simona Ispas](https://www.researchgate.net/profile/Simona-Ispas)) <br>
        Thesis: [Fracture, surface, and structure of silicate glasses](https://hal.science/tel-02902601) <br>
 2013-2016   M.E. in Metallurgical Engineering, Chongqing University, China <br>
 2009-2013   B.E. in Metallurgical Engineering, Chongqing University, China
