@@ -65,7 +65,7 @@ Publications for more details:
 *  *Zhen Zhang*, Jun Ding, and Evan Ma. Shear transformations in metallic glasses without excessive and predefinable defects. [Proc. Natl. Acad. Sci. U.S.A. **119**, e2213941119 (2022).](docs/2022-zhang-pnas.pdf)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Origin of the non-linear elastic behavior of silicate glasses. [Acta Mater. **231**, 117855 (2022).](docs/2022-zhang-acta.pdf)
 *  *Zhen Zhang*, Simona Ispas, and Walter Kob. Fracture of silicate glasses: Microcavities and correlations between atomic-level properties. [Phy. Rev. Mater. **6**, 085601 (2022).](docs/2022-zhang-prm.pdf)
-*  Jinhua Yu, *Zhen Zhang*, Zhendong Sha, Jun Ding, A. Lindsay Greer, Evan Ma. Structural state governs the mechanism of shear-­band propagation in metallic glasses. [Proc. Natl. Acad. Sci. U.S.A. **122**, e2427082122 (2025)](docs/2025-pnas-yu.pdf)
+*  Jinhua Yu, *Zhen Zhang*, Zhendong Sha, Jun Ding, A. Lindsay Greer, Evan Ma. Structural state governs the mechanism of shear-­band propagation in metallic glasses. [Proc. Natl. Acad. Sci. U.S.A. **122**, e2427082122 (2025).](docs/2025-pnas-yu.pdf)
 
 ## 3) Monolayer surface properties of oxide glasses
 
