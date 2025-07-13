@@ -174,10 +174,10 @@ Publications for more details:
 
 | Name | Role | Duration | Research direction |
 | ---- | ---- | -------- | -------------- |
-| Nanqin Xiao | Graduate student | 09/2022-now | Frictional granular matter |
+| Nanqin Xiao | Graduate student | 09/2022-now | Rough and Frictional granular materials |
 | Zhengcheng Xie | Graduate student | 09/2023-now | Glasses under extreme deformation |
 | Tiannan Shen | Graduate student | 03/2024-now | Structure and dynamics of oxide glass formers |
-| Jun Wu | Graduate student | 04/2024-now | Defects and plasticity in glasses | 
+| Jun Wu | Graduate student | 04/2024-now | Structure and dynamics of model glass formers | 
 
 * * *
 
