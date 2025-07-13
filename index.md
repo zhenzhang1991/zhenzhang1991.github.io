@@ -95,6 +95,9 @@ Publications for more details:
 * * *
 
 # Peer-reviewed publications
+0. Structural origin of hot-compression-enhanced mechanical properties of aluminosilicate glass <br>
+   Ziming Yan, *Zhen Zhang*, Madoka Ono, Juanjuan Zhu, Linfeng Ding, Lianjun Wang <br>
+   [Scr. Mater. **268**, 116878 (2025)](docs/2025-yan-scripta.pdf)
 0. Structural state governs the mechanism of shear-­band propagation in metallic glasses <br>
    Jinhua Yu, *Zhen Zhang*, Zhendong Sha, Jun Ding, A. Lindsay Greer, Evan Ma <br>
    [Proc. Natl. Acad. Sci. U.S.A. **122**, e2427082122 (2025)](docs/2025-pnas-yu.pdf)
