@@ -51,6 +51,7 @@ Publications for more details:
 *  Houfei Yuan, *Zhen Zhang*, Walter Kob, and Yujie Wang. Connecting packing efficiency of binary hard sphere systems to their intermediate range structure. [Phys. Rev. Lett. **127**, 278001 (2021).](docs/2021-yuan-prl.pdf)
 *  Navneet Singh, *Zhen Zhang*, AK Sood, Walter Kob, and Rajesh Ganapathy. Intermediate-range order governs dynamics in dense colloidal liquids. [Proc. Natl. Acad. Sci. U.S.A. **120**, e2300923120 (2023).](docs/2023-singh-pnas.pdf)
 *  *Zhen Zhang* and Walter Kob. Revealing hidden medium-range order in silicate glass formers using many-body correlation functions. [Phys. Rev. B **110**, 104203 (2024)](docs/2024-zhang-prb.pdf)
+*  *Zhen Zhang*, Zhencheng Xie, and Walter Kob. Symmetry transitions beyond the nanoscale in pressurized silica glass. [Proc. Natl. Acad. Sci. U.S.A. **122**, e2524058122 (2025)](docs/2025-zhang-pnas.pdf)
 
 ## 2) Deformation and failure of amorphous solids
 The deformation and failure of amorphous materials are much less understood when compared with their crystalline counterparts. This is primarily because of the disordered nature of the amorphous structure which makes that even defining structural defects becomes a very challenging task. In our recent work, by combing the conventional MD method with a highly efficient swap MC algorithm, we have successfully produced computer metallic glass models with an effective cooling rate approaching that typically used in experiments. This hybrid simulation scheme thus allowed us to bridge the vast timescale gap that has been a long-standing concern for comparing lab glasses with the computer-simulated ones. Further analysis of the slowly-quenched glass has revealed that shear transformation zones (STZs) are considerably fewer and smaller than previously believed and cannot be attributed to clear-cut local defects that can be predefined in the glass structure.
@@ -95,6 +96,9 @@ Publications for more details:
 * * *
 
 # Peer-reviewed publications
+0. Symmetry transitions beyond the nanoscale in pressurized silica glass <br>
+   *Zhen Zhang*, Zhencheng Xie, and Walter Kob <br>
+   [Proc. Natl. Acad. Sci. U.S.A. **122**, e2524058122 (2025)](docs/2025-zhang-pnas.pdf)
 0. Structural origin of hot-compression-enhanced mechanical properties of aluminosilicate glass <br>
    Ziming Yan, *Zhen Zhang*, Madoka Ono, Juanjuan Zhu, Linfeng Ding, Lianjun Wang <br>
    [Scr. Mater. **268**, 116878 (2025)](docs/2025-yan-scripta.pdf)
