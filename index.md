@@ -185,7 +185,9 @@ Current
 | Nan Zhou | Graduate student | 09/2025-now | Surface structure and dynamics |
 
 Former
-| ---- | ---- | -------- | -------------- |
+| Name | Role | Duration |
+| ---- | ---- | -------- |
+| Jiajun Tang | Graduate student | 06/2023-06/2024 |
 * * *
 
 
