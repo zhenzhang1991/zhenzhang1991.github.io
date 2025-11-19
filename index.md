@@ -175,7 +175,7 @@ Publications for more details:
 * * *
 
 # Group Members
-Current
+Current<br>
 | Name | Role | Duration | Research direction |
 | ---- | ---- | -------- | -------------- |
 | Nanqin Xiao | Graduate student | 09/2022-now | Rough and Frictional granular materials |
@@ -184,7 +184,7 @@ Current
 | Jun Wu | Graduate student | 04/2024-now | Structure and dynamics of model glass formers | 
 | Nan Zhou | Graduate student | 09/2025-now | Surface structure and dynamics |
 
-Former
+Former <br>
 | Name | Degree | Duration | Now at |
 | ---- | ---- | -------- | -------------- |
 | Jiajun Tang | Master | 06/2023-06/2024 | Eastern Institute of Technology |
