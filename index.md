@@ -182,12 +182,15 @@ Publications for more details:
 | Zhengcheng Xie | Graduate student | 09/2023-now | Glasses under extreme deformation |
 | Tiannan Shen | Graduate student | 03/2024-now | Structure and dynamics of oxide glass formers |
 | Jun Wu | Graduate student | 04/2024-now | Structure and dynamics of model glass formers | 
-
+| Nan Zhou | Graduate student | 09/2025-now | Surface structure and dynamics |
 * * *
+
 
 # Resources
 ## Codes and scripts
 [Four-point correlation structural analysis](https://github.com/zhenzhang1991/three-dimensional-structure)<br>
+[Irradiation simulations](https://github.com/zhenzhang1991/irradiation-simulation-for-alloys)<br> 
+[Hybrid MD and MC simulations](https://github.com/zhenzhang1991/hybrid-MD-and-MC-simulations)<br>
 [SHIK potential for MD simulations of oxide liquids and glasses](https://github.com/compmatscirpi/SHIK-potential)
 
 
