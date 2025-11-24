@@ -175,21 +175,19 @@ Publications for more details:
 * * *
 
 # Group Members
-Current
-| Name | Role | Duration | Research direction |
-| ---- | ---- | -------- | -------------- |
-| Nanqin Xiao | Graduate student | 09/2022-now | Rough and Frictional granular materials |
-| Zhengcheng Xie | Graduate student | 09/2023-now | Glasses under extreme deformation |
-| Tiannan Shen | Graduate student | 03/2024-now | Structure and dynamics of oxide glass formers |
-| Jun Wu | Graduate student | 04/2024-now | Structure and dynamics of model glass formers | 
-| Nan Zhou | Graduate student | 09/2025-now | Surface structure and dynamics |
+| Name               | Role             | Duration    | Research Direction                            |
+| ------------------ | ---------------- | ----------- | --------------------------------------------- |
+| **Nanqin Xiao**    | Graduate student | 09/2022–now | Rough and frictional granular materials       |
+| **Zhengcheng Xie** | Graduate student | 09/2023–now | Glasses under extreme deformation             |
+| **Tiannan Shen**   | Graduate student | 03/2024–now | Structure and dynamics of oxide glass formers |
+| **Jun Wu**         | Graduate student | 04/2024–now | Structure and dynamics of model glass formers |
+| **Nan Zhou**       | Graduate student | 09/2025–now | Surface structure and dynamics                |
 
-Fromer
-| Name | Degree | Duration | After graduation |
-| ---- | ---- | -------- | -------------- |
-| Jiajun Tang | Master | 09/2023-06/2024 | frictional granular materails |
+| Name            | Degree | Duration        | After Graduation              |
+| --------------- | ------ | --------------- | ----------------------------- |
+| **Jiajun Tang** | Master | 09/2023–06/2024 | Frictional granular materials |
+
 * * *
-
 
 # Resources
 ## Codes and scripts
