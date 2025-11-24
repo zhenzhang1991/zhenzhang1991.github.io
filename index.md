@@ -175,6 +175,9 @@ Publications for more details:
 * * *
 
 # Group Members
+
+### Current Members
+
 | Name            | Role             | Duration     | Research Direction                         |
 |-----------------|------------------|--------------|---------------------------------------------|
 | Nanqin Xiao     | Graduate student | 09/2022-now  | Rough and frictional granular materials     |
@@ -183,6 +186,7 @@ Publications for more details:
 | Jun Wu          | Graduate student | 04/2024-now  | Structure and dynamics of model glass formers |
 | Nan Zhou        | Graduate student | 09/2025-now  | Surface structure and dynamics              |
 
+### Former Members
 
 | Name         | Degree | Duration         | After Graduation                 |
 |--------------|---------|------------------|----------------------------------|
