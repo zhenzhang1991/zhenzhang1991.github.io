@@ -176,7 +176,7 @@ Publications for more details:
 
 # Group Members
 
-### Current Members
+### Current
 
 | Name            | Role             | Duration     | Research Direction                         |
 |-----------------|------------------|--------------|---------------------------------------------|
@@ -186,7 +186,7 @@ Publications for more details:
 | Jun Wu          | Graduate student | 04/2024-now  | Structure and dynamics of model glass formers |
 | Nan Zhou        | Graduate student | 09/2025-now  | Surface structure and dynamics              |
 
-### Former Members
+### Former
 
 | Name         | Degree | Duration         | After Graduation                 |
 |--------------|---------|------------------|----------------------------------|
