@@ -190,7 +190,7 @@ Publications for more details:
 
 | Name         | Degree | Duration         | After Graduation                 |
 |--------------|---------|------------------|----------------------------------|
-| Jiajun Tang  | Master  | 09/2023–06/2024  | Frictional granular materials    |
+| Jiajun Tang  | Master  | 09/2023–06/2024  | Eastern Institute of Technology, Ningbo    |
 
 * * *
 
