@@ -98,7 +98,7 @@ Publications for more details:
 # Peer-reviewed publications
 0. Symmetry transitions beyond the nanoscale in pressurized silica glass <br>
    *Zhen Zhang*, Zhencheng Xie, and Walter Kob <br>
-   [Proc. Natl. Acad. Sci. U.S.A. **122**, e2524058122 (2025)](docs/2025-zhang-pnas.pdf) [Commentary: [PNAS](https://www.pnas.org/doi/10.1073/pnas.2530034122)]
+   [Proc. Natl. Acad. Sci. U.S.A. **122**, e2524058122 (2025)](docs/2025-zhang-pnas.pdf) [[PNAS Commentary](https://www.pnas.org/doi/10.1073/pnas.2530034122)]
 0. Structural origin of hot-compression-enhanced mechanical properties of aluminosilicate glass <br>
    Ziming Yan, *Zhen Zhang*, Madoka Ono, Juanjuan Zhu, Linfeng Ding, Lianjun Wang <br>
    [Scr. Mater. **268**, 116878 (2025)](docs/2025-yan-scripta.pdf)
@@ -107,22 +107,22 @@ Publications for more details:
    [Proc. Natl. Acad. Sci. U.S.A. **122**, e2427082122 (2025)](docs/2025-pnas-yu.pdf)
 0. Universal power-law scaling in the packing structure of frictional granular materials <br>
    Jiajun Tang, Xiaohui Wen, *Zhen Zhang*, and Yujie Wang <br> 
-   [Phys. Rev. E **111**, 015420 (2025)](docs/2025-pre-tang.pdf) [News: [CDUT](https://cop.cdut.edu.cn/info/1638/5321.htm)]
+   [Phys. Rev. E **111**, 015420 (2025)](docs/2025-pre-tang.pdf) [[Press release](https://cop.cdut.edu.cn/info/1638/5321.htm)]
 0. Distinct deformation mechanisms of silicate glasses under nanoindentation: The critical role of structure <br>
    Ziming Yan, Ranran Lu, Linfeng Ding, Lianjun Wang, and *Zhen Zhang* <br>
-   [J. Appl. Phys. **136**, 245101 (2024)](docs/2024-jap-yan.pdf) [Featured and on the Cover] [News: [GEOO](https://mp.weixin.qq.com/s/UjwDFmg3sYmH-IKmRL3Jcw)]
+   [J. Appl. Phys. **136**, 245101 (2024)](docs/2024-jap-yan.pdf) [Featured and on the Cover] [[Press release](https://mp.weixin.qq.com/s/UjwDFmg3sYmH-IKmRL3Jcw)]
 0. Revealing hidden medium-range order in silicate glass formers using many-body correlation functions <br>
    *Zhen Zhang* and Walter Kob <br>
    [Phys. Rev. B **110**, 104203 (2024)](docs/2024-zhang-prb.pdf) [Editors' Suggestion]
 0. Minimizing the diffusivity difference between vacancies and interstitials in multi-­principal element alloys <br>
    Bozhao Zhang, *Zhen Zhang*, Kaihui Xun, Mark Asta, Jun Ding, and Evan Ma <br>
-   [Proc. Natl. Acad. Sci. U.S.A. **121**, e2314248121 (2024)](docs/2024-zhangb-pnas.pdf) [News: [XJTU](https://news.xjtu.edu.cn/info/1004/206163.htm)]
+   [Proc. Natl. Acad. Sci. U.S.A. **121**, e2314248121 (2024)](docs/2024-zhangb-pnas.pdf) [[Press release](https://news.xjtu.edu.cn/info/1004/206163.htm)]
 0. Nanoindentation-induced evolution of atomic-level properties in silicate glass: Insights from molecular dynamics simulations <br>
    Linfeng Ding, Ranran Lu, Lianjun Wang, Qiuju Zheng, John C. Mauro, and *Zhen Zhang* <br>
-   [J. Am. Ceram. Soc. **107**,1448 (2024)](docs/2023-lu-jace.pdf) [Editor's Choice] [News: [GEOO](https://mp.weixin.qq.com/s/UjwDFmg3sYmH-IKmRL3Jcw)]
+   [J. Am. Ceram. Soc. **107**,1448 (2024)](docs/2023-lu-jace.pdf) [Editor's Choice] [[Press release](https://mp.weixin.qq.com/s/UjwDFmg3sYmH-IKmRL3Jcw)]
 0. Influence of friction on the packing efficiency and short-to-intermediate range structure of hard-sphere systems <br>
    Jiajun Tang, Xiaohui Wen, *Zhen Zhang*, Deyin Wang, Xinbiao Huang, and Yujie Wang <br>
-   [J. Chem. Phys. **159**, 194901 (2023)](docs/2023-tang-jcp.pdf) [News: [CDUT](https://cop.cdut.edu.cn/info/1638/5321.htm)]
+   [J. Chem. Phys. **159**, 194901 (2023)](docs/2023-tang-jcp.pdf) [[Press release](https://cop.cdut.edu.cn/info/1638/5321.htm)]
 0. Surface properties of alkali silicate glasses: Influence of the modifiers <br>
    *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
    [J. Chem. Phys. **158**, 244504 (2023)](docs/2023-zhang-jcp.pdf)
@@ -131,7 +131,7 @@ Publications for more details:
    [Proc. Natl. Acad. Sci. U.S.A. **120**, e2300923120 (2023)](docs/2023-singh-pnas.pdf) 
 0. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy<br>
    *Zhen Zhang*, Zhengxiong Su, Bozhao Zhang, Qin Yu, Jun Ding, Tan Shi, Chenyang Lu, Robert O. Ritchie, and Evan Ma <br>
-   [Proc. Natl. Acad. Sci. U.S.A. **120**, e2218673120 (2023)](docs/2023-zhang-pnas.pdf) [News: [XJTU](http://news.xjtu.edu.cn/info/1033/193974.htm)]
+   [Proc. Natl. Acad. Sci. U.S.A. **120**, e2218673120 (2023)](docs/2023-zhang-pnas.pdf) [[Press release](http://news.xjtu.edu.cn/info/1033/193974.htm)]
 0. Profiling the off-center atomic displacements in CuCl at finite temperatures with a deep-learning potential <br>
    Zhi-Hao Wang, Xuan-Yan Chen, *Zhen Zhang*, Xie Zhang, and Su-Huai Wei <br>
    [Phys. Rev. Mater. **7**, 034601 (2023)](docs/2023-wang-prm.pdf)
@@ -143,13 +143,13 @@ Publications for more details:
    [J. Mater. Sci. Technol. **135**, 221-230 (2023)](docs/2023-xun-jmst.pdf)
 0. Shear transformations in metallic glasses without excessive and predefinable defects <br>
    *Zhen Zhang*, Jun Ding, and Evan Ma <br>
-   [Proc. Natl. Acad. Sci. U.S.A. **119**, e2213941119 (2022)](docs/2022-zhang-pnas.pdf) [News: [XJTU](http://news.xjtu.edu.cn/info/1219/189693.htm)]
+   [Proc. Natl. Acad. Sci. U.S.A. **119**, e2213941119 (2022)](docs/2022-zhang-pnas.pdf) [[Press release](http://news.xjtu.edu.cn/info/1219/189693.htm)]
 0. Fracture of silicate glasses: Microcavities and correlations between atomic-level properties <br>
    *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
    [Phys. Rev. Mater. **6**, 085601 (2022)](docs/2022-zhang-prm.pdf)
 0. Origin of the non-linear elastic behavior of silicate glasses <br>
    *Zhen Zhang*, Simona Ispas, and Walter Kob <br>
-   [Acta Mater. **231**, 117855 (2022)](docs/2022-zhang-acta.pdf) [News: [MSE](https://mp.weixin.qq.com/s/kmkXOZsHK5hV2Nso0SdtVA)]
+   [Acta Mater. **231**, 117855 (2022)](docs/2022-zhang-acta.pdf) [[Press release](https://mp.weixin.qq.com/s/kmkXOZsHK5hV2Nso0SdtVA)]
 0. Connecting packing efficiency of binary hard sphere systems to their intermediate range structure <br>
    Houfei Yuan, *Zhen Zhang*, Walter Kob, and Yujie Wang <br>
    [Phys. Rev. Lett. **127**, 278001 (2021)](docs/2021-yuan-prl.pdf)
