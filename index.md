@@ -104,7 +104,7 @@ Publications for more details:
    [Scr. Mater. **268**, 116878 (2025)](docs/2025-yan-scripta.pdf)
 0. Structural state governs the mechanism of shear-­band propagation in metallic glasses <br>
    Jinhua Yu, *Zhen Zhang*, Zhendong Sha, Jun Ding, A. Lindsay Greer, Evan Ma <br>
-   [Proc. Natl. Acad. Sci. U.S.A. **122**, e2427082122 (2025)](docs/2025-pnas-yu.pdf)
+   [Proc. Natl. Acad. Sci. U.S.A. **122**, e2427082122 (2025)](docs/2025-pnas-yu.pdf) [[Press release](https://mse-en.xjtu.edu.cn/info/1011/1835.htm)]
 0. Universal power-law scaling in the packing structure of frictional granular materials <br>
    Jiajun Tang, Xiaohui Wen, *Zhen Zhang*, and Yujie Wang <br> 
    [Phys. Rev. E **111**, 015420 (2025)](docs/2025-pre-tang.pdf) [[Press release](https://cop.cdut.edu.cn/info/1638/5321.htm)]
