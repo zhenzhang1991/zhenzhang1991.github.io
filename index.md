@@ -98,7 +98,7 @@ Publications for more details:
 # Peer-reviewed publications
 0. Symmetry transitions beyond the nanoscale in pressurized silica glass <br>
    *Zhen Zhang*, Zhencheng Xie, and Walter Kob <br>
-   [Proc. Natl. Acad. Sci. U.S.A. **122**, e2524058122 (2025)](docs/2025-zhang-pnas.pdf)
+   [Proc. Natl. Acad. Sci. U.S.A. **122**, e2524058122 (2025)](docs/2025-zhang-pnas.pdf) [Commentary: [PNAS](https://www.pnas.org/doi/10.1073/pnas.2530034122)]
 0. Structural origin of hot-compression-enhanced mechanical properties of aluminosilicate glass <br>
    Ziming Yan, *Zhen Zhang*, Madoka Ono, Juanjuan Zhu, Linfeng Ding, Lianjun Wang <br>
    [Scr. Mater. **268**, 116878 (2025)](docs/2025-yan-scripta.pdf)
